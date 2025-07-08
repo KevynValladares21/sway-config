@@ -34,7 +34,10 @@ Minimal Sway config with Catppuccin inspired theme. Uses Waybar, Fuzzel, Thunar,
 - Terminal file manager: ranger
 - Music player: cmus with theme from https://github.com/Sekki21956/cmus
 - GUI tools: Thunar, Brave
-- FiraCode Nerd Font
+- Font: FiraCode Nerd Font
+- Editor: NeoVim with LazyVim
+- GTK Theme: Catppuccin from https://github.com/catppuccin/gtk
+- Icon Theme: Papirus Dark with papirus-folders from https://github.com/catppuccin/papirus-folders
 - Wallpaper from https://github.com/orangci/walls-catppuccin-mocha
 
 ## Installation Instructions
